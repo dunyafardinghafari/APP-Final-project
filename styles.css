@@ -1,0 +1,1272 @@
+/*the body style*/
+body{
+font-family: "Domine", sans-serif;
+ }
+	
+}
+/*the nav style start */
+nav{
+	background:silver;
+	width:100%;
+	height:109px;
+}
+.photo1{
+	float:left;
+	width:8%;
+	
+}
+h1{
+	display:inline-block;
+}
+nav a{
+	text-decoration:none;
+	color:white;
+	float:right;
+	padding:40px;
+	
+	
+	
+	
+}
+nav a:hover{
+	background:grey;
+}
+/*the nav style end */
+/*the part1 start */
+.part1{
+	width:100%;
+	height:540px;
+	animation: one 10s infinite;
+	display:inline-block;
+	
+	
+}
+@keyframes one{
+		from{background:url('galaxy-s23-ultra-highlights-design-end.jpg');}
+		to{background:url('galaxy-z-fold5-highlights-colors-phantom-black (1).jpg');}
+}
+.text1{
+	color:white;
+	text-align:center;
+	font-size:60px;
+}
+/* the part1 end */
+/* tha section start */
+.a{
+	width:100%;
+	height:900px;
+	background:black;
+}
+.text2{
+	color:white;
+	margin-top:0;
+	text-align:center;
+}
+.part2{
+	margin-left:100px;
+}
+/* the section end */
+
+.part3{
+	margin-left:12%;
+	
+}
+
+/* the part4 start */
+.part4{
+	width:100%;
+	height:950px;
+	margin-top:10%;
+	background:white;
+}
+.part5{
+	width:25%;
+	border:2px solid white;
+	float:left;
+	margin:20px;
+	margin-left:4%;
+	transition:background 2s;	
+}
+.part5:hover{
+background:rgb(0,0,128);
+	
+}
+.text3{
+	margin-left:30%;
+
+}
+.photo2{
+	width:100%;
+}
+.part6{
+	width:25%;
+	border:1px solid white;
+	float:left;
+	margin:20px;
+	margin-left:4%;
+	transition:background 2s;
+}
+.part6:hover{
+	background:rgb(0,0,128);
+
+}
+.photo3{
+	width:100%;
+}
+/* the part4 end */
+/* the part7 stat */
+.part7{
+    width:100%;
+	height:400px;
+	background:grey;
+	margin-top:10%;	
+}
+/*the part7 end */
+/*The ultimate*/
+.Theultimate{
+	width:100%;
+	height:1200px;
+	background:black;
+	margin-top:30%;
+	text-align:center;
+}
+.text5{
+	color:white;
+	font-size:80px;
+}
+.text6{
+	color:white;
+	
+}
+.tect7{
+	color:white;
+	
+}
+.text8{
+	color:grey;
+	font-size:30px;
+	
+}
+.text9{
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	margin-left:10%;
+	float:left;
+}
+.text9{
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	float:left;
+}
+.part8{
+	width:40%;
+	height:430px;
+	border:5px solid grey;
+	margin-top:2%;
+	float:left;
+}
+.photo4{
+	width:100%;
+	height:400px;
+}
+.text10{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	margin-top:150px;
+	padding:10px;
+}
+/*the The ultimate*/
+/*the part9 start*/ 
+.part9{
+	width:100%;
+	height:300px;
+	margin-top:10%;
+}
+.photo5{
+	width:100%;
+	height:auto;
+}
+/*the part9 end*/
+/*the viewing start*/
+.viewing{
+	width:100%;
+	height:900px;
+	background:black;
+	margin-top:500px;
+}
+.text11{
+	color:white;
+	font-size:60px;
+	text-align:center;
+	padding:40px;
+}	
+.text12{
+	color:white;
+	font-size:60px;
+	text-align:center;
+	margin-top:-95px;
+}	
+.text13{
+	color:grey;
+	font-size:25px;
+	text-align:center;
+	margin-top:-40px;
+}
+.photo6{
+	width:100%;
+	height:auto;
+}
+/*the viewing end*/
+/*the keeps start*/
+.keeps{
+	width:100%;
+	height:700px;
+	background:black;
+}
+.text14{
+	color:white;
+	position:relative;
+	top:-7%;
+	margin-left:10%;
+	display:inline-block;
+}
+.photo7{
+	margin-left:10%;
+	margin-top:15%;
+}
+
+.text15{
+	color:grey;
+	text-align:center;
+	padding:10px;
+	
+}
+/*the keeps end*/
+/*the information start*/
+.information{
+	width:100%;
+	height:1900px;
+	background:silver;
+	margin-top:-30px;
+}	
+.text16{
+	padding:70px;
+	font-size:20px;
+}
+/*the information end*/
+/*the footer start*/
+.part10{
+	width:100%;
+	height:300px;
+	background:black;
+	margin-top:-30px;
+	text-align:center;
+	
+}
+.text17{
+	color:white;
+	position:relative;
+	top:20px;
+}
+.text18{
+	color:white;
+}
+.text19{
+	color:white;
+}
+.part11 a{
+	text-decoration:none;
+	color:grey;
+	padding:30px;
+}
+.text20{
+	color:white;
+}
+.part12{
+	width:100%;
+	height:70px;
+}
+.text21{
+	text-align:center;
+}
+.part13{
+	width:100%;
+	height:60px;
+	background:black;
+}
+/*the footer end*/
+/*the page tow style start*/
+/*the thepart start*/
+.thepart{
+	width:100%;
+	height:600px;
+	background-image:url('galaxy-z-flip5-highlights-colors-lavender (1).jpg');
+	transition:background 5s;
+	margin-top:-60px;
+}
+.thepart:hover{
+	background-image:url('galaxy-z-flip5-highlights-colors-graphite.jpg');
+}
+.thepart1{
+	width:45%;
+	height:600px;
+	background:black;
+	opacity:0.5;
+	
+}
+.text22{
+	color:white;
+	font-size:60px;
+	text-align:center;
+}
+.text23{
+	color:white;
+	position:relative;
+	top:50%;
+	text-align:center;
+}
+/*the thepart end*/
+.thepart2{
+	width:100%;
+	height:350px;
+}
+.text24{
+	text-align:center;
+	font-size:30px;
+}
+.photo8{
+	width:30%;
+	margin-left:40px;
+	transition:background 2s;
+}
+.photo8:hover{
+	background:rgb(0,0,128);
+}
+/*the thepart1 end*/
+/*the thepart3 start*/
+.thepart3{
+	width:100%;
+	height:200px;
+}
+.text25{
+font-size:15px;
+padding:10px;
+margin-left:40px;
+display:inline-block;
+
+}
+.text26{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+
+}
+
+.text27{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+
+}
+/*the thepart3 end*/
+/*the thepart4 start*/
+.thepart4{
+    width:100%;
+	height:350px;	
+}
+.photo9{
+	width:30%;
+    margin-left:40px;
+	transition:background 2s;
+}
+.photo9:hover{
+	background:rgb(0,0,128);
+}
+/*the thepart4 end*/
+/*the thepart5 start*/
+.thepart5{
+	width:100%;
+	height:200px;
+}
+.text28{
+font-size:15px;
+padding:10px;
+margin-left:40px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+.text29{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+
+.text30{
+font-size:15px;
+margin-left:80px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+/*the thepart5 end*/
+/*the thepart6 start*/
+.thepart6{
+	width:100%;
+	height:200px;
+}
+.text31{
+	text-align:center;
+	font-size:60px;
+}
+/*the thepart6 end*/
+/*the thepart7 start*/
+.thepart7{
+	width:100%;
+	height:600px;
+}
+form{
+   margin-left:16%;
+}
+input{
+	height:40px;
+	border-radius:10px;
+}
+.input3{
+	margin-top:50px;
+	width:60%;
+	margin-left:8%;
+	text-align:center;
+}
+.check{
+    margin-left:20%;
+	position:relative;
+	top:10px;
+}
+.check1{
+	margin-left:10%;
+    position:relative;
+	top:10px;
+}
+
+.submit{
+	position:relative;
+	top:150px;
+	left:31%;
+	width:20%;
+	background:rgb(0,0,128);
+	color:white;
+	width:5%;
+	height:30px;
+	text-decoration:none;
+	padding:15px 30px;
+	
+}
+/*the thepart7 end*/
+/*the thepart9 start*/
+.thepart9{
+	width:100%;
+	height:1900px;
+	background:silver;
+}
+.text32{
+	margin-top:10%;
+	padding:70px;
+	font-size:20px;
+	
+}
+/*the thepart9 end*/
+/*the footer*/
+footer{
+	margin-top:20%;
+}
+/*the footer end*/
+/*the page three style start*/
+/*the thepart14 start*/
+.thepart14{
+	width:100%;
+	height:600px;
+	background-image:url('kv-galaxy-book3_l.jpg');
+}
+/*the thepart14 end*/
+/*the thepart15 start*/
+.thepart15{
+	width:100%;
+	height:900px;
+	background:black;
+}
+.text33{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	padding:20px;
+	
+}
+.text34{
+	color:white;
+	text-align:center;
+	
+}
+.text35{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	
+	
+}
+.photo10{
+   position:relative;
+   left:32%;
+}
+/*the thepart15 end*/
+/*the thepart16 start*/
+.thepart16{
+	width:100%;
+	height:900px;
+}
+.theheading{
+	position:relative;
+	left:22%;
+}
+
+.text36{
+	text-align:center;
+	font-size:45px;
+}
+.text37{
+	text-align:center;
+	padding:50px;
+    justify-content:center;
+	
+}
+.photo11{
+  position:relative;
+   left:32%;
+}
+/*the thepart16 end*/
+/*the thepart17 start*/
+.thepart17{
+	width:100%;
+	height:400px;
+	background-image:url('galaxy_book3_touchpad02_pc.jpg');
+	background-size:cover;
+}
+/*the thepart17 end*/
+/*the thepart18 start*/
+.thepart18{
+	width:100%;
+	height:400px;
+	
+}
+.theheading1{
+	padding:20px;
+}
+.text38{
+	padding:20px;
+}
+
+.thepart18:hover{
+		background:linear-gradient(to right,white,black);
+}
+/*the thepart18 end*/
+/*the thepart19 start*/
+.thepart19{
+	width:100%;
+	height:400px;
+	
+}
+.thepart19:hover{
+		background:linear-gradient(to right,grey,white);
+}
+.theheading2{
+	padding:20px;
+}
+.text39{
+	padding:20px;
+}
+/*the thepart19 end*/
+/*the thepart20 start*/
+.thepart20{
+    width:100%;
+	height:auto;
+
+}
+.photo12{
+   width:100%;
+}
+/*the thepart20 end*/
+/*the page four style start*/
+.thepart21{
+	width:100%;
+	height:900px;
+	background:linear-gradient(to right,grey,black);
+	margin-top:-10px;
+}
+.thepart22{
+	width:50%;
+	height:400px;
+	background:black;
+	opacity:0.5;
+	margin-left:25%;
+	position:relative;
+	top:10%;
+	box-shadow:0px 0px 20px white;
+}
+.text40{
+	color:white;
+	text-align:center;
+	position:relative;
+	top:20%;
+}
+/*the body style*/
+body{
+  font-family:arial;	
+}
+/*the nav style start */
+nav{
+	background:silver;
+	width:100%;
+	height:107px;
+    
+}
+.photo1{
+	float:left;
+	width:8%;
+	
+}
+h1{
+	display:inline-block;
+}
+nav a{
+	text-decoration:none;
+	color:white;
+	float:right;
+	padding:40px;
+	font-family:arial;
+	
+	
+}
+nav a:hover{
+	background:black;
+}
+/*the nav style end */
+/*the part1 start */
+.part1{
+	width:100%;
+	height:540px;
+	animation: one 10s infinite;
+	display:inline-block;
+	
+	
+}
+@keyframes one{
+		from{background:url('galaxy-s23-ultra-highlights-design-end.jpg');}
+		to{background:url('galaxy-z-fold5-highlights-colors-phantom-black (1).jpg');}
+}
+.text1{
+	color:white;
+	text-align:center;
+	font-size:60px;
+}
+/* the part1 end */
+/* tha section start */
+section{
+	width:100%;
+	height:900px;
+	background:black;
+}
+.text2{
+	color:white;
+	margin-top:0;
+	text-align:center;
+}
+.part2{
+	margin-left:100px;
+}
+/* the section end */
+
+.part3{
+	margin-left:12%;
+	
+}
+
+/* the part4 start */
+.part4{
+	width:100%;
+	height:950px;
+	margin-top:10%;
+	background:white;
+}
+.part5{
+	width:25%;
+	border:1px solid white;
+	float:left;
+	margin:20px;
+	margin-left:4%;
+	transition:background 2s;	
+}
+.part5:hover{
+background:rgb(0,0,128);
+		
+}
+.text3{
+	margin-left:30%;
+
+}
+.photo2{
+	width:100%;
+}
+.part6{
+	width:25%;
+	border:1px solid white;
+	float:left;
+	margin:20px;
+	margin-left:4%;
+	transition:background 2s;
+}
+.part6:hover{
+	background:rgb(0,0,128);
+	
+}
+.photo3{
+	width:100%;
+}
+/* the part4 end */
+/* the part7 stat */
+.part7{
+    width:100%;
+	height:400px;
+	background:grey;
+	margin-top:10%;	
+}
+/*the part7 end */
+/*The ultimate*/
+.Theultimate{
+	width:100%;
+	height:1200px;
+	background:black;
+	margin-top:30%;
+	text-align:center;
+}
+.text5{
+	color:white;
+	font-size:80px;
+}
+.text6{
+	color:white;
+	
+}
+.tect7{
+	color:white;
+	
+}
+.text8{
+	color:grey;
+	font-size:30px;
+	
+}
+.text9{
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	margin-left:10%;
+	float:left;
+}
+.text9{
+	color:white;
+	font-size:20px;
+	margin-top:50px;
+	margin-left:16%;
+	float:left;
+}
+.part8{
+	width:40%;
+	height:430px;
+	border:5px solid grey;
+	margin-top:2%;
+	float:left;
+	
+}
+.photo4{
+	width:100%;
+	height:400px;
+}
+.text10{
+	color:white;
+	font-size:25px;
+	text-align:center;
+	margin-top:150px;
+	padding:10px;
+}
+/*the The ultimate*/
+/*the part9 start*/ 
+.part9{
+	width:100%;
+	height:300px;
+	margin-top:10%;
+}
+.photo5{
+	width:100%;
+	height:auto;
+}
+/*the part9 end*/
+/*the viewing start*/
+.viewing{
+	width:100%;
+	height:900px;
+	background:black;
+	margin-top:500px;
+}
+.text11{
+	color:white;
+	font-size:60px;
+	text-align:center;
+	padding:40px;
+}	
+.text12{
+	color:white;
+	font-size:60px;
+	text-align:center;
+	margin-top:-95px;
+}	
+.text13{
+	color:grey;
+	font-size:25px;
+	text-align:center;
+	margin-top:-40px;
+}
+.photo6{
+	width:100%;
+	height:auto;
+}
+/*the viewing end*/
+/*the keeps start*/
+.keeps{
+	width:100%;
+	height:700px;
+	background:black;
+}
+.text14{
+	color:white;
+	position:relative;
+	top:-7%;
+	margin-left:10%;
+	display:inline-block;
+}
+.photo7{
+	margin-left:10%;
+	margin-top:15%;
+}
+
+.text15{
+	color:grey;
+	text-align:center;
+	padding:10px;
+	
+}
+/*the keeps end*/
+/*the information start*/
+.information{
+	width:100%;
+	height:1900px;
+	background:silver;
+	margin-top:-30px;
+}	
+.text16{
+	padding:70px;
+	font-size:20px;
+}
+/*the information end*/
+/*the footer start*/
+.part10{
+	width:100%;
+	height:300px;
+	background:black;
+	margin-top:-30px;
+	text-align:center;
+	
+}
+.text17{
+	color:white;
+	position:relative;
+	top:20px;
+}
+.text18{
+	color:white;
+}
+.text19{
+	color:white;
+}
+.part11 a{
+	text-decoration:none;
+	color:grey;
+	padding:30px;
+}
+.text20{
+	color:white;
+}
+.part12{
+	width:100%;
+	height:70px;
+}
+.text21{
+	text-align:center;
+}
+.part13{
+	width:100%;
+	height:60px;
+	background:black;
+}
+/*the footer end*/
+/*the page tow style start*/
+/*the thepart start*/
+.thepart{
+	width:100%;
+	height:600px;
+	background-image:url('galaxy-z-flip5-highlights-colors-lavender (1).jpg');
+	transition:background 5s;
+	margin-top:-60px;
+}
+.thepart:hover{
+	background-image:url('galaxy-z-flip5-highlights-colors-graphite.jpg');
+}
+.thepart1{
+	width:45%;
+	height:600px;
+	background:black;
+	opacity:0.5;
+	
+}
+.text22{
+	color:white;
+	font-size:60px;
+	text-align:center;
+}
+.text23{
+	color:white;
+	position:relative;
+	top:50%;
+	text-align:center;
+}
+/*the thepart end*/
+.thepart2{
+	width:100%;
+	height:350px;
+}
+.text24{
+	text-align:center;
+	font-size:30px;
+}
+.photo8{
+	width:30%;
+	margin-left:40px;
+	transition:background 2s;
+}
+.photo8:hover{
+	background:rgb(0,0,128);
+}
+/*the thepart1 end*/
+/*the thepart3 start*/
+.thepart3{
+	width:100%;
+	height:200px;
+}
+.text25{
+font-size:15px;
+padding:10px;
+margin-left:40px;
+display:inline-block;
+
+}
+.text26{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+
+}
+
+.text27{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+
+}
+/*the thepart3 end*/
+/*the thepart4 start*/
+.thepart4{
+    width:100%;
+	height:350px;	
+}
+.photo9{
+	width:30%;
+    margin-left:40px;
+	transition:background 2s;
+}
+.photo9:hover{
+	background:rgb(0,0,128);
+}
+/*the thepart4 end*/
+/*the thepart5 start*/
+.thepart5{
+	width:100%;
+	height:200px;
+}
+.text28{
+font-size:15px;
+padding:10px;
+margin-left:40px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+.text29{
+font-size:15px;
+padding:10px;
+margin-left:100px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+
+.text30{
+font-size:15px;
+margin-left:80px;
+display:inline-block;
+position:relative;
+top:-50px;
+
+}
+/*the thepart5 end*/
+/*the thepart6 start*/
+.thepart6{
+	width:100%;
+	height:200px;
+}
+.text31{
+	text-align:center;
+	font-size:60px;
+}
+/*the thepart6 end*/
+/*the thepart7 start*/
+.thepart7{
+	width:100%;
+	height:600px;
+}
+form{
+   margin-left:16%;
+}
+input{
+	height:40px;
+	border-radius:10px;
+}
+.input3{
+	margin-top:50px;
+	width:60%;
+	margin-left:8%;
+	text-align:center;
+}
+.check{
+    margin-left:20%;
+	position:relative;
+	top:10px;
+}
+.check1{
+	margin-left:10%;
+    position:relative;
+	top:10px;
+}
+
+.submit{
+	position:relative;
+	top:150px;
+	left:31%;
+	width:20%;
+	background:rgb(0,0,128);
+	color:white;
+	width:5%;
+	height:30px;
+	text-decoration:none;
+	padding:15px 30px;
+	
+}
+/*the thepart7 end*/
+/*the thepart9 start*/
+.thepart9{
+	width:100%;
+	height:1900px;
+	background:silver;
+}
+.text32{
+	margin-top:10%;
+	padding:70px;
+	font-size:20px;
+	
+}
+/*the thepart9 end*/
+/*the footer*/
+footer{
+	margin-top:20%;
+}
+/*the footer end*/
+/*the page three style start*/
+/*the thepart14 start*/
+.thepart14{
+	width:100%;
+	height:600px;
+	background-image:url('kv-galaxy-book3_l.jpg');
+}
+/*the thepart14 end*/
+/*the thepart15 start*/
+.thepart15{
+	width:100%;
+	height:900px;
+	background:black;
+}
+.text33{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	padding:20px;
+	
+}
+.text34{
+	color:white;
+	text-align:center;
+	
+}
+.text35{
+	color:white;
+	text-align:center;
+	font-size:30px;
+	
+	
+}
+.photo10{
+   position:relative;
+   left:32%;
+}
+/*the thepart15 end*/
+/*the thepart16 start*/
+.thepart16{
+	width:100%;
+	height:900px;
+}
+.theheading{
+	position:relative;
+	left:22%;
+}
+
+.text36{
+	text-align:center;
+	font-size:45px;
+}
+.text37{
+	text-align:center;
+	padding:50px;
+    justify-content:center;
+	
+}
+.photo11{
+  position:relative;
+   left:32%;
+}
+/*the thepart16 end*/
+/*the thepart17 start*/
+.thepart17{
+	width:100%;
+	height:400px;
+	background-image:url('galaxy_book3_touchpad02_pc.jpg');
+	background-size:cover;
+}
+/*the thepart17 end*/
+/*the thepart18 start*/
+.thepart18{
+	width:100%;
+	height:400px;
+	
+}
+.theheading1{
+	padding:20px;
+}
+.text38{
+	padding:20px;
+}
+
+.thepart18:hover{
+		background:linear-gradient(to right,white,black);
+}
+/*the thepart18 end*/
+/*the thepart19 start*/
+.thepart19{
+	width:100%;
+	height:400px;
+	
+}
+.thepart19:hover{
+		background:linear-gradient(to right,grey,white);
+}
+.theheading2{
+	padding:20px;
+}
+.text39{
+	padding:20px;
+}
+/*the thepart19 end*/
+/*the thepart20 start*/
+.thepart20{
+    width:100%;
+	height:auto;
+
+}
+.photo12{
+   width:100%;
+}
+/*the thepart20 end*/
+/*the page four style start*/
+.thepart21{
+	width:100%;
+	height:900px;
+	background:linear-gradient(to right,grey,black);
+	margin-top:-30px;
+}
+.thepart22{
+	width:50%;
+	height:400px;
+	background:black;
+	opacity:0.5;
+	margin-left:25%;
+	position:relative;
+	top:10%;
+	box-shadow:0px 0px 20px white;
+}
+.text40{
+	color:white;
+	font-size:20px;
+	position:relative;
+	top:30%;
+	left:20%;
+	
+}
+.text41{
+	color:white;
+	font-size:20px;
+	position:relative;
+	top:30%;
+	left:35%;
+	
+}
